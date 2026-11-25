@@ -68,4 +68,4 @@ Life-Expectancy-Prediction/
 ---
 
 ## 👤 Author
-Preeti Singh
+Khushal
